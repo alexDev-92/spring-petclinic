@@ -18,8 +18,6 @@
 <br>
 ![image#10](figures/image10fixedgit.JPG)
 <br>
-[Dockerfile](https://github.com/alexDev-92/spring-petclinic/blob/master/Dockerfile) 
-<br>
 ![docker#2](figures/docker2.JPG)
 <br>
 ![docker#3](figures/docker3.JPG)
