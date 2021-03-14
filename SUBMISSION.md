@@ -18,9 +18,9 @@
 <br>
 ![image#10](figures/image10fixedgit.JPG)
 <br>
-
+##Docker
 <br>
-https://github.com/alexDev-92/spring-petclinic/blob/master/Dockerfile 
+[Dockerfile](https://github.com/alexDev-92/spring-petclinic/blob/master/Dockerfile) 
 <br>
 ![image#11](figures/docker2.JPG)
 <br>
@@ -32,9 +32,9 @@ https://github.com/alexDev-92/spring-petclinic/blob/master/Dockerfile
 <br>
 ![image#15](figures/dockerC3.JPG)
 <br>
-https://github.com/alexDev-92/spring-petclinic/blob/master/docker-compose.yml
+[docker-compose.yml](https://github.com/alexDev-92/spring-petclinic/blob/master/docker-compose.yml)
 <br>
-https://github.com/alexDev-92/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
+[properties](https://github.com/alexDev-92/spring-petclinic/blob/master/src/main/resources/application-mysql.properties)
 <br>
 ![image#16](figures/dockerCA3.JPG)
 <br>
