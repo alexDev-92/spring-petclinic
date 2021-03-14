@@ -18,7 +18,7 @@
 <br>
 ![image#10](figures/image10fixedgit.JPG)
 <br>
-DOCKER:
+
 <br>
 https://github.com/alexDev-92/spring-petclinic/blob/master/Dockerfile 
 <br>
